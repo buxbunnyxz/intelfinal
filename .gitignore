@@ -1,0 +1,10 @@
+/vendor/
+/node_modules/
+/.env
+.idea/
+/*.log
+/storage/*.key
+/storage/app/public/*
+/storage/debugbar/*
+/storage/framework/*
+/storage/logs/*
