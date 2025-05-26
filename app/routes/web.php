@@ -15,8 +15,13 @@ use Illuminate\Support\Facades\Route;
 //
 //    // For future routes, add them inside this group!
 //});
-//
 
+## Login routes
+Route::get('/login', [LoginController::class, 'showLoginForm'])->name('login');
+Route::post('/login', [LoginController::class, 'login']);
+Route::post('/logout', [LoginController::class, 'logout'])->name('logout');
+
+## routes that require being logged in
 Route::middleware('auth')->group(function () {
     Route::get('/', function () {return view('dashboard');})->name('dashboard');
 });
