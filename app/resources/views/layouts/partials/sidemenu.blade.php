@@ -12,7 +12,7 @@
                 <li>
                     <a href="dashboard-analytics.html">Analytics</a>
                 </li>
-                <li>xx
+                <li>
                     <a href="dashboard-crm.html">CRM</a>
                 </li>
                 <li>
