@@ -19,7 +19,7 @@
                     <a href="index.html">Ecommerce</a>
                 </li>
                 <li>
-                    <a href="dashboard-projects.html">Projects</a>
+                    <a hrexf="dashboard-projects.html">Projects</a>
                 </li>
             </ul>
         </div>
