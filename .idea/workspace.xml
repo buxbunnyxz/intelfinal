@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e1394b5-e361-4a2c-afc7-82e1882bf438" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/resources/lang/en/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/confirm-password.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/confirm-password.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/forgot-password.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/forgot-password.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/register.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/verify-email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/verify-email.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/auth-session-status.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/auth-session-status.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/danger-button.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/danger-button.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/dropdown-link.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/dropdown-link.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/dropdown.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/dropdown.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/input-error.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/input-error.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/input-label.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/input-label.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/modal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/modal.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/nav-link.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/nav-link.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/primary-button.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/primary-button.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/responsive-nav-link.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/responsive-nav-link.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/secondary-button.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/secondary-button.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/components/text-input.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/text-input.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/dashboard.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/layouts/guest.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/layouts/guest.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/layouts/navigation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/layouts/navigation.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/profile/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/profile/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/profile/partials/delete-user-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/profile/partials/delete-user-form.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/profile/partials/update-password-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/profile/partials/update-password-form.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/profile/partials/update-profile-information-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/profile/partials/update-profile-information-form.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="6e1394b5-e361-4a2c-afc7-82e1882bf438" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,7 +211,7 @@
       <workItem from="1748219152506" duration="8463000" />
       <workItem from="1748277849499" duration="51000" />
       <workItem from="1748278197938" duration="1440000" />
-      <workItem from="1748280599736" duration="2108000" />
+      <workItem from="1748280599736" duration="2951000" />
     </task>
     <servers />
   </component>
