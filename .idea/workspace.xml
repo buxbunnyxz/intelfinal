@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e1394b5-e361-4a2c-afc7-82e1882bf438" name="Changes" comment="" />
+    <list default="true" id="6e1394b5-e361-4a2c-afc7-82e1882bf438" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/resources/lang/en/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/confirm-password.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/confirm-password.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/forgot-password.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/forgot-password.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/verify-email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/verify-email.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/auth-session-status.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/auth-session-status.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/danger-button.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/danger-button.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/dropdown-link.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/dropdown-link.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/dropdown.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/dropdown.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/input-error.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/input-error.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/input-label.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/input-label.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/modal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/modal.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/nav-link.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/nav-link.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/primary-button.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/primary-button.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/responsive-nav-link.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/responsive-nav-link.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/secondary-button.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/secondary-button.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/components/text-input.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/components/text-input.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/dashboard.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/layouts/guest.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/layouts/guest.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/layouts/navigation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/layouts/navigation.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/profile/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/profile/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/profile/partials/delete-user-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/profile/partials/delete-user-form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/profile/partials/update-password-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/profile/partials/update-password-form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/profile/partials/update-profile-information-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/profile/partials/update-profile-information-form.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +45,9 @@
     <execution>
       <executable path="composer" />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../php/php.exe">
     <include_path>
@@ -150,29 +183,33 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2xbuZo46l9IlLGIG9WKByGsZ19B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.deploy.options&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.deploy.options",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\xampp\htdocs\MVC\app\Config" />
@@ -204,6 +241,7 @@
       <workItem from="1748219152506" duration="8463000" />
       <workItem from="1748277849499" duration="51000" />
       <workItem from="1748278197938" duration="1440000" />
+      <workItem from="1748280599736" duration="2108000" />
     </task>
     <servers />
   </component>
