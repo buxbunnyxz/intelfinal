@@ -9,20 +9,17 @@ return new class extends Migration
     /**
      * Run the migrations.
      */
-    public function up(): void
+    public function up()
     {
         Schema::table('drivers', function (Blueprint $table) {
-            //
+            $table->string('nas')->nullable()->after('license_expiry');
         });
     }
 
-    /**
-     * Reverse the migrations.
-     */
-    public function down(): void
+    public function down()
     {
         Schema::table('drivers', function (Blueprint $table) {
-            //
+            $table->dropColumn('nas');
         });
     }
 };
