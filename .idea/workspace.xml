@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e1394b5-e361-4a2c-afc7-82e1882bf438" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/database/migrations/2025_06_01_222916_add_nas_to_drivers_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/database/migrations/2025_06_01_222916_add_nas_to_drivers_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,7 +214,7 @@
       <workItem from="1748219152506" duration="8463000" />
       <workItem from="1748277849499" duration="51000" />
       <workItem from="1748278197938" duration="1440000" />
-      <workItem from="1748280599736" duration="6644000" />
+      <workItem from="1748280599736" duration="6646000" />
     </task>
     <servers />
   </component>
