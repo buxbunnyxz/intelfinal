@@ -15,7 +15,7 @@
     <link href="{{ asset('assets/css/app-dark.min.css') }}" rel="stylesheet" type="text/css" id="dark-style" />
 </head>
 
-<body class="loading authentication-bg" data-layout-config='{"leftSideBarTheme":"dark","layoutBoxed":false, "leftSidebarCondensed":false, "leftSidebarScrollable":false,"darkMode":false, "showRightSidebarOnStart": true}'>
+<body class="loading authentication-bg" data-layout-config='{"leftSideBarTheme":"dark","layoutBoxed":false, "leftSidebarCondensed":false, "leftSidebarScrollable":false,"darkMode":false, "showRightSidebarOnStart": false}'>
 <div class="account-pages pt-2 pt-sm-5 pb-4 pb-sm-5">
     <div class="container">
         <div class="row justify-content-center">
@@ -55,7 +55,7 @@
                             </div>
 
                             <div class="mb-3">
-                                <a href="{{ route('password.request') }}" class="text-muted float-end"><small>Forgot your password?</small></a>
+                                <a href="#" class="text-muted float-end"><small>Forgot your password?</small></a>
                                 <label for="password" class="form-label">Password</label>
                                 <div class="input-group input-group-merge">
                                     <input type="password" id="password" name="password" class="form-control" placeholder="Enter your password" required>
@@ -84,7 +84,7 @@
                     <div class="col-12 text-center">
                         <p class="text-muted">
                             Don't have an account?
-                            <a href="{{ route('register') }}" class="text-muted ms-1"><b>Sign Up</b></a>
+                            <a href="#" class="text-muted ms-1"><b>Sign Up</b></a>
                         </p>
                     </div> <!-- end col -->
                 </div>
