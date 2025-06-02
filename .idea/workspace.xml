@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e1394b5-e361-4a2c-afc7-82e1882bf438" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/auth/login.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="6e1394b5-e361-4a2c-afc7-82e1882bf438" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,7 +216,7 @@
       <workItem from="1748277849499" duration="51000" />
       <workItem from="1748278197938" duration="1440000" />
       <workItem from="1748280599736" duration="7948000" />
-      <workItem from="1748820373461" duration="4717000" />
+      <workItem from="1748820373461" duration="4936000" />
     </task>
     <servers />
   </component>
