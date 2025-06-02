@@ -3,14 +3,18 @@
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
-// Make the homepage public
-Route::get('/', function () { return view('dashboard'); })->name('dashboard');
+Route::get('/test', function () {
+    return 'Test route is working!';
+});
 
-// If you want other routes to still require login, keep them here
+// Protect the homepage and other routes with auth
 Route::middleware('auth')->group(function () {
-    // Protected routes go here, e.g.:
+    Route::get('/', function () {
+        return view('dashboard');
+    })->name('dashboard');
+
+    // Add protected routes here
     // Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
 });
 
 require __DIR__.'/auth.php';
-
