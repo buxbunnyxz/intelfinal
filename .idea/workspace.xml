@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e1394b5-e361-4a2c-afc7-82e1882bf438" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/routes/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/Http/Middleware/SetLocale.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/assets/images/flags/fr.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/lang/en/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/lang/en/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/lang/fr/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/lang/fr/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/layouts/partials/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/layouts/partials/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/resources/views/layouts/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/layouts/partials/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xzxz.php" beforeDir="false" afterPath="$PROJECT_DIR$/xzxz.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,29 +172,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.deploy.options",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.deploy.options&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\MVC\app\public\assets\images\flags" />
       <recent name="D:\xampp\htdocs\MVC\app\Config" />
     </key>
   </component>
@@ -218,7 +229,10 @@
       <workItem from="1748277849499" duration="51000" />
       <workItem from="1748278197938" duration="1440000" />
       <workItem from="1748280599736" duration="7948000" />
-      <workItem from="1748820373461" duration="5874000" />
+      <workItem from="1748820373461" duration="13679000" />
+      <workItem from="1749328725611" duration="2428000" />
+      <workItem from="1749347716320" duration="4461000" />
+      <workItem from="1749420985136" duration="675000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12">
-                <script>document.write(new Date().getFullYear())</script> © IM - Intelboard.ca
+                2024 - <script>document.write(new Date().getFullYear())</script> © IM - Intelboard.ca
             </div>
         </div>
     </div>
